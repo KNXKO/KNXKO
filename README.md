@@ -4,7 +4,7 @@
 
 ## I'm a Student, Graphic Designer, and Developer
 
-- 🔭 Check out my VS Code course: [Portfolio](http://lukaslechovic.wz.sk/)
+- 🔭 Check out my: [Portfolio](http://lukaslechovic.wz.sk/)
 
 ### Connect with me:
 
