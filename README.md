@@ -5,7 +5,7 @@
 ## I'm a Student, Graphic Designer, and Developer
 
 [<img src="./img/browser.svg" alt="website" width="20px" height="20px">](http://lukaslechovic.wz.sk/) [Website](http://lukaslechovic.wz.sk/) <br>
-[<img src="./img/behance.svg" alt="behance" width="20px" height="20px" style="padding-top:5px; padding-bottom:5px;">](https://www.behance.net/lukaslechovic) [Portfolio](https://www.behance.net/lukaslechovic)<br>
+[<img src="./img/behance.svg" alt="behance" width="20px" height="20px" style="margin-top:5px; margin-bottom:5px;">](https://www.behance.net/lukaslechovic) [Portfolio](https://www.behance.net/lukaslechovic)<br>
 [<img src="./img/linkedin.svg" alt="linkedin" width="20px" height="20px" >](https://linkedin.com/in/lukas-lechovic) [Linkedin](https://www.linkedin.com/in/lukas-lechovic/)
 
 ### Languages and Tools:
