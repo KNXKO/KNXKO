@@ -1,18 +1,12 @@
-# Hi there, I'm Lukas- aka KNXKO👋 
+# Hi there, I'm Lukas- aka KNXKO👋
 
 [![website](https://img.shields.io/website?label=LUKASLECHOVIC.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://lukaslechovic.wz.sk/)
 
 ## I'm a Student, Graphic Designer, and Developer
 
-- 🔭 Check out my: [Portfolio](http://lukaslechovic.wz.sk/)
-
-### Connect with me:
-
-[<img src="./img/browser.svg" alt="website" width="26px" height="26px">](http://lukaslechovic.wz.sk)
-&nbsp;&nbsp;
-[<img src="./img/linkedin.svg" alt="linkedin" width="26px" height="26px">](https://linkedin.com/in/lukas-lechovic)
-&nbsp;&nbsp;
-[<img src="./img/behance.svg" alt="behance" width="26px" height="26px">](https://www.behance.net/lukaslechovic)
+[<img src="./img/browser.svg" alt="website" width="20px" height="20px">](http://lukaslechovic.wz.sk/) [Website](http://lukaslechovic.wz.sk/)
+[<img src="./img/behance.svg" alt="behance" width="20px" height="20px">](https://www.behance.net/lukaslechovic) [Portfolio](https://www.behance.net/lukaslechovic)
+[<img src="./img/linkedin.svg" alt="linkedin" width="20px" height="20px">](https://linkedin.com/in/lukas-lechovic) [Linkedin](https://www.linkedin.com/in/lukas-lechovic/)
 
 ### Languages and Tools:
 
@@ -31,8 +25,6 @@
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
 [website]: http://lukaslechovic.wz.sk/
 [behance]: https://www.behance.net/lukaslechovic
@@ -42,9 +34,10 @@
 [jsplaylist]: http://lukaslechovic.wz.sk/
 [cssplaylist]: http://lukaslechovic.wz.sk/
 [reactplaylist]: http://lukaslechovic.wz.sk/
+
 <br />
 <br />
 
- <img align="left" alt="KNXKO's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KNXKO&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KNXKO&layout=compacttitle_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+ <img align="left" alt="KNXKO's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KNXKO&show_icons=true&theme=github_dark" />
+
+ <img align="left" alt="KNXKO's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNXKO&layout=compact&theme=github_dark" />
