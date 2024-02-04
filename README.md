@@ -5,14 +5,10 @@
 ## 👉 **I'm a Student, Graphic Designer, and Developer**
 
 <div>
-  <a href="http://lukaslechovic.wz.sk/"><img src="./img/browser.svg" alt="website" width="30px" height="30px" style="margin-right: 10px;"></a>
-  <a href="https://www.behance.net/lukaslechovic"><img src="./img/behance.svg" alt="behance" width="30px" height="30px" style="margin-right: 10px; margin-top: 5px; margin-bottom: 5px;"></a>
-  <a href="https://linkedin.com/in/lukas-lechovic"><img src="./img/linkedin.svg" alt="linkedin" width="30px" height="30px"></a>
+    <a href="http://lukaslechovic.wz.sk/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" width="100px" height="30px"></a>
+    <a href="https://linkedin.com/in/lukas-lechovic"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="100px" height="30px"></a>
+    <a href="https://www.behance.net/lukaslechovic"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="behance" width="100px" height="30px"></a>
 </div>
-
-[website]: http://lukaslechovic.wz.sk/
-[behance]: https://www.behance.net/lukaslechovic
-[linkedin]: https://www.linkedin.com/in/lukas-lechovic/
 
  <br>
 
