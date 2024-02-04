@@ -39,7 +39,7 @@
 <br>
 <br>
 
-## 👉 **GitHub**
+## 👉 **Stats**
 
  <img align="left" alt="KNXKO's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KNXKO&show_icons=true&theme=transparent&border=none&rank_icon=github" />
 
