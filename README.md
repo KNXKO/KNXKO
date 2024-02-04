@@ -4,8 +4,8 @@
 
 ## 👉 **I'm a Student, Graphic Designer, and Developer**
 
-[<a href="http://lukaslechovic.wz.sk/"><img src="./img/browser.svg" alt="website" width="30px" height="30px" style="margin-right: 10px;"></a>][website]
-[<a href="https://www.behance.net/lukaslechovic"><img src="./img/behance.svg" alt="behance" width="30px" height="30px" style="margin-right: 10px; margin-top: 5px; margin-bottom: 5px;"></a>][behance]
+[<a href="http://lukaslechovic.wz.sk/"><img src="./img/browser.svg" alt="website" width="30px" height="30px" style="margin-right: 10px;"></a>][website]&nbsp;&nbsp;
+[<a href="https://www.behance.net/lukaslechovic"><img src="./img/behance.svg" alt="behance" width="30px" height="30px" style="margin-right: 10px; margin-top: 5px; margin-bottom: 5px;"></a>][behance]&nbsp;&nbsp;
 [<a href="https://linkedin.com/in/lukas-lechovic"><img src="./img/linkedin.svg" alt="linkedin" width="30px" height="30px"></a>][linkedin]
 
 [website]: http://lukaslechovic.wz.sk/
