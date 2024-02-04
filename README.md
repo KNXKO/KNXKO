@@ -37,6 +37,7 @@
 <img align="left" alt="jQuery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px;" />
 
 <br>
+<br>
 
 ## 👉 **GitHub**
 
