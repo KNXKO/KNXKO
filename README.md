@@ -4,20 +4,29 @@
 
 ## 👉 **I'm a Student, Graphic Designer, and Developer**
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="./img/browser.svg" alt="website" width="30px" height="30px" style="text-decoration: none; margin-right: 10px;">
-  [<span style="font-weight: bold; font-size: 1.2em; text-decoration: none;">Website</span>](http://lukaslechovic.wz.sk/)
-</div>
+[<div style="display: flex; align-items: center; margin-bottom: 10px;">
+<a href="http://lukaslechovic.wz.sk/">
+<img src="./img/browser.svg" alt="website" width="30px" height="30px" style="text-decoration: none; margin-right: 10px;">
+<span style="font-weight: bold; font-size: 1.2em; text-decoration: none;">Website</span>
+</a>
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="./img/behance.svg" alt="behance" width="30px" height="30px" style="text-decoration: none; margin-right: 10px;">
-  [<span style="font-weight: bold; font-size: 1.2em; text-decoration: none;">Portfolio</span>](https://www.behance.net/lukaslechovic)
-</div>
+</div>](http://lukaslechovic.wz.sk/)
 
-<div style="display: flex; align-items: center;">
-  <img src="./img/linkedin.svg" alt="linkedin" width="30px" height="30px" style="text-decoration: none; margin-right: 10px;">
-  <span style="font-weight: bold; font-size: 1.2em; text-decoration: none;">Linkedin</span>(https://linkedin.com/in/lukas-lechovic)
-</div>
+[<div style="display: flex; align-items: center; margin-bottom: 10px;">
+<a href="https://www.behance.net/lukaslechovic">
+<img src="./img/behance.svg" alt="behance" width="30px" height="30px" style="text-decoration: none; margin-right: 10px;">
+<span style="font-weight: bold; font-size: 1.2em; text-decoration: none;">Portfolio</span>
+</a>
+
+</div>](https://www.behance.net/lukaslechovic)
+
+[<div style="display: flex; align-items: center;">
+<a href="https://linkedin.com/in/lukas-lechovic">
+<img src="./img/linkedin.svg" alt="linkedin" width="30px" height="30px" style="text-decoration: none; margin-right: 10px;">
+<span style="font-weight: bold; font-size: 1.2em; text-decoration: none;">Linkedin</span>
+</a>
+
+</div>](https://linkedin.com/in/lukas-lechovic)
 
  <br>
 
