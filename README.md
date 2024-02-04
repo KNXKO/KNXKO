@@ -39,7 +39,7 @@
 [website]: http://lukaslechovic.wz.sk/
 [behance]: https://www.behance.net/lukaslechovic
 [linkedin]: https://www.linkedin.com/in/lukas-lechovic/
-
+___
 <br />
 <br />
 
