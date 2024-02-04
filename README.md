@@ -2,8 +2,7 @@
 
 # Hi there, I'm Lukáš aka KNXKO👋
 
-<span  style="font-weight:bold;font-size:2em"> 👉 I'm a Student, Graphic Designer and Developer</span>
-<br>
+## 👉 **I'm a Student, Graphic Designer, and Developer**
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <img src="./img/browser.svg" alt="website" width="30px" height="30px" style="text-decoration: none; margin-right: 10px;">
@@ -20,7 +19,8 @@
   <span style="font-weight: bold; font-size: 1.2em; text-decoration: none;">Linkedin</span>
 </div>
  <br>
-<span  style="font-weight:bold;font-size:2em"> 👉 My ToolBox</span>
+
+## 👉 **My ToolBox**
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
