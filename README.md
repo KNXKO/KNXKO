@@ -37,6 +37,6 @@
 
 ## 👉 **Stats**
 
- <img align="left" alt="KNXKO's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KNXKO&show_icons=true&theme=transparent&border_color=#1a1a1a&rank_icon=github" />
+ <img align="left" alt="KNXKO's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KNXKO&show_icons=true&theme=transparent&border_color='#1a1a1a'&rank_icon=github" />
 
- <img align="left" alt="KNXKO's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNXKO&layout=compact&theme=transparent&border_color=#1a1a1a" />
+ <img align="left" alt="KNXKO's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNXKO&layout=compact&theme=transparent&border_color='#1a1a1a'" />
