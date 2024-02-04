@@ -5,9 +5,9 @@
 ## 👉 **I'm a Student, Graphic Designer, and Developer**
 
 <div>
-    <a href="http://lukaslechovic.wz.sk/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" width="100px" height="30px"></a>
-    <a href="https://linkedin.com/in/lukas-lechovic"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="100px" height="30px"></a>
-    <a href="https://www.behance.net/lukaslechovic"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="behance" width="100px" height="30px"></a>
+    <a href="http://lukaslechovic.wz.sk/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" width="100px" height="27px"></a>
+    <a href="https://linkedin.com/in/lukas-lechovic"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="100px" height="27px"></a>
+    <a href="https://www.behance.net/lukaslechovic"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="behance" width="100px" height="27px"></a>
 </div>
 
  <br>
