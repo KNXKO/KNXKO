@@ -36,12 +36,9 @@
 <img align="left" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="jQuery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px;" />
 
-[website]: http://lukaslechovic.wz.sk/
-[behance]: https://www.behance.net/lukaslechovic
-[linkedin]: https://www.linkedin.com/in/lukas-lechovic/
-___
-<br />
-<br />
+<br>
+
+## 👉 **GitHub**
 
  <img align="left" alt="KNXKO's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KNXKO&show_icons=true&theme=transparent&border=none&rank_icon=github" />
 
